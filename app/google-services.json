@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "277104165037",
+    "firebase_url": "https://mobileappdev-ff31a.firebaseio.com",
+    "project_id": "mobileappdev-ff31a",
+    "storage_bucket": "mobileappdev-ff31a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277104165037:android:be146c95a51d7de8",
+        "android_client_info": {
+          "package_name": "ie.wit.leagueofireland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277104165037-ehvsoojvtcd9a8pctb5r5opie9ub4tbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHE4c1Qf556cyxg2BUnNqEHj_c_6MmMkg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
