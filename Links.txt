@@ -1,1 +1,25 @@
+References
+Splashscreen
 https://stackoverflow.com/questions/5486789/how-do-i-make-a-splash-screen
+Dropdown menu (Spinner)
+https://www.youtube.com/watch?v=NoSri0OSOaA
+Login & Registration
+https://www.youtube.com/watch?v=pFc59hCnbPQ
+https://www.youtube.com/watch?v=zKBGjGoeid0&t
+https://www.youtube.com/watch?v=-r59HK5zyhk&t
+Table
+https://stackoverflow.com/questions/33995938/how-to-create-a-table-by-using-tablelayout-in-android-studio
+Donation, Report and Base classes
+https://ddrohan.github.io/wit-mad-1-2018/
+Facebook sign in
+https://www.youtube.com/watch?v=mapLbSKNc6I
+Logout
+https://www.youtube.com/watch?v=24SsQp-UBFI&index=5&list=PLbte_tgDKVWQOCRIzkgEQ8umdn_S6ZnHr
+forgot password
+https://www.youtube.com/watch?v=CKqIpDqjj44&index=7&list=PLbte_tgDKVWQOCRIzkgEQ8umdn_S6ZnHr
+Uploading user's info to database
+https://www.youtube.com/watch?v=DklbuNnP9hM&list=PLbte_tgDKVWQOCRIzkgEQ8umdn_S6ZnHr&index=
+Retrieving info from a database
+https://www.youtube.com/watch?v=OWVth0ydSQY&index=9&list=PLbte_tgDKVWQOCRIzkgEQ8umdn_S6ZnHr
+Updating user info
+https://www.youtube.com/watch?v=gtRQxYKLARg&index=10&list=PLbte_tgDKVWQOCRIzkgEQ8umdn_S6ZnHr
